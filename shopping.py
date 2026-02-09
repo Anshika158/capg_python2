@@ -1,7 +1,7 @@
 class shoppingcart:
     products={'iphone':5 , 'imac':3 , 'ipad' : 2 , 'iwatch':1}
-    prices={'iphone':900, 'imac':5000 , 'ipad' : 3000, 'iwatch':4000}
-
+    prices={'iphone':900, 'imac':500 , 'ipad' : 3000, 'iwatch':4000}
+#adding something to check 
     def __init__(self):
         self.cart=[]
 
